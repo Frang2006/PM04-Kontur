@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Shop": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Пользователь\\OneDrive\\Документы\\Shop-source\\stands\\Shop-source\\work-data.json\""
+    }
+  }
+}
